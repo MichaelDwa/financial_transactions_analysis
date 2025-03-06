@@ -40,6 +40,10 @@ This project involves analyzing a financial transactions dataset to uncover insi
 
 The dataset was chosen for its wide range of transaction types, spending habits, and potential security risks. It provides a solid foundation for further investigation, especially for fraud detection and customer segmentation.
 
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Financial Transactions Dataset: Analytics](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data)
+
 ## Challenges Faced
 
 - Effectively handling missing and duplicate data during the cleaning process.
