@@ -17,7 +17,7 @@ This project involves analyzing a financial transactions dataset to uncover insi
    The dataset was imported from Kaggle using its API, and cleaned data was exported using SQLite for better processing and analysis.
    
 2. **Data Cleaning**  
-   This phase involved handling missing values, removing unnecessary columns, and correcting inconsistencies in the data to ensure a clean dataset ready for analysis.
+   Python, using Pandas and NumPy, was used to clean the data by handling missing values, inconsistencies, and duplicates, ensuring the dataset was ready for analysis.
    
 3. **Data Analysis**  
    Various analyses were performed to understand customer behavior, including identifying personal spending habits, detecting fraudulent transactions, and uncovering trends across different merchant categories.
